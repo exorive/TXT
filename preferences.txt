@@ -1,0 +1,5 @@
+Favorite film: Batman,
+Favorite serial: Dark,
+Favorite food: Burger,
+Favorite season: Spring,
+Favorite coutry: Monaco.
