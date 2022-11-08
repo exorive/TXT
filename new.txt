@@ -1,4 +1,4 @@
-name:Olexandr,
-age:35,
-Pets:1,
-salary:2000$.
+name: Olexandr,
+age: 35,
+Pets: 1,
+salary: 2000$.
